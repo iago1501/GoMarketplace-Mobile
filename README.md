@@ -34,13 +34,15 @@ Para executar os testes necessários para a aplicação ser considerada criada c
 
 ## Fundamentos
 
-Neste projeto foram colocados em prática os conhecimentos adquiridos no módulo 1 do curso de React Native,
-porém, sem muitas novidades de funcionalidades, dado em conta que são bem parecidas com as do React, apenas mudando a forma de escrever Tags pois nao é permitido HTML no React Native
+Neste projeto foram colocados em prática os conhecimentos adquiridos no módulo 3 do Bootcamp,
+foram apresentadas algumas funcionalidades novas do React Native como o conceito de Routes que é bem
+diferente do React, assim como também o conceito de AsyncStorage,
 
 - React-Native;
 - ContextAPI;
 - Typescript;
 - AsyncStorage;
+- Routes
 
 ## Observações
 
